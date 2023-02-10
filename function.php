@@ -1,0 +1,8 @@
+<?php
+  function sum(){
+    $a=5;
+    $b=10;
+    echo $a+$b;
+  }
+  sum();
+ ?>
